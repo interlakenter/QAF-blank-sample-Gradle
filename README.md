@@ -1,0 +1,1 @@
+# QAF-blank-sample-Gradle
